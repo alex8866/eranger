@@ -1,0 +1,14 @@
+q
+open_with 
+open_with 
+open_with 
+rename applications.py
+shell 
+find 
+
+set as_directory_diff_tool
+move 
+move next
+set as_directory_diff_tool true
+set as_directory_diff_tool false
+search 
